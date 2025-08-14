@@ -1,0 +1,10 @@
+[project]
+name = "RL"
+version = "0.1.0"
+description = "A workspace to explore and develop RL agents"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "numpy>=1.26",
+    "opencv-python>=4.9",
+]
