@@ -5,7 +5,7 @@ import numpy as np
 import random
 from dataclasses import dataclass, field
 
-from utils import Vec2
+from .utils import Vec2
 from .base import ISim
 
 
